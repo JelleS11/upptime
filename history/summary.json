@@ -1,20 +1,20 @@
 [
   {
-    "name": "Hypergen",
-    "url": "https://www.hypergen.be",
-    "icon": "https://icons.duckduckgo.com/ip3/www.hypergen.be.ico",
-    "slug": "hypergen",
+    "name": "VPS",
+    "url": "https://vps.hypergen.be",
+    "icon": "https://icons.duckduckgo.com/ip3/vps.hypergen.be.ico",
+    "slug": "vps",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 742,
-    "timeWeek": 742,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "time": 784,
+    "timeDay": 784,
+    "timeWeek": 784,
+    "timeMonth": 784,
+    "timeYear": 784,
     "dailyMinutesDown": {}
   }
 ]
