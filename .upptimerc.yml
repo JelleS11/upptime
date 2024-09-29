@@ -7,7 +7,7 @@ sites:
     url: https://vps.hypergen.be
   - name: WEB
     url: https://www.hypergen.be
-  - name: WEBMAIL
+  - name: MAIL
     url: https://webmail.hypergen.be
 
 status-website:
