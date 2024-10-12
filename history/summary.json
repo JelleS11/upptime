@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vps.hypergen.be.ico",
     "slug": "vps",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1164,
-    "timeDay": 627,
-    "timeWeek": 741,
-    "timeMonth": 1164,
-    "timeYear": 1164,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1156,
+    "timeDay": 941,
+    "timeWeek": 796,
+    "timeMonth": 1156,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2024-09-24": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1106,
-    "timeDay": 880,
-    "timeWeek": 1189,
-    "timeMonth": 1106,
-    "timeYear": 1106,
+    "time": 1095,
+    "timeDay": 944,
+    "timeWeek": 1132,
+    "timeMonth": 1095,
+    "timeYear": 1095,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 630,
-    "timeWeek": 773,
-    "timeMonth": 721,
-    "timeYear": 721,
+    "time": 718,
+    "timeDay": 690,
+    "timeWeek": 802,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {}
   }
 ]
