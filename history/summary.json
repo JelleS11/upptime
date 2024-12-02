@@ -4,7 +4,7 @@
     "url": "https://vps.hypergen.be",
     "icon": "https://icons.duckduckgo.com/ip3/vps.hypergen.be.ico",
     "slug": "vps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 788,
     "timeYear": 894,
     "dailyMinutesDown": {
+      "2024-12-02": 0,
       "2024-09-24": 22
     }
   },
